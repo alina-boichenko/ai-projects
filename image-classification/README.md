@@ -18,6 +18,7 @@ python image-classification/main.py
 ```
 
 ## Project Structure
-
+```
 image-classification/images/ — images for prediction
 image-classification/image_classifier.keras — saved model
+```
